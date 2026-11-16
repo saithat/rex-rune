@@ -5,7 +5,8 @@ only the `rex-rune` client binary, its `.desktop` launcher and icons. It never
 installs, replaces or shadows the `rex` server.
 
 Stable binary releases are Linux-only, for **x86_64** (amd64) and **aarch64**
-(arm64). The current release is **0.10.0**. macOS and Windows are source builds:
+(arm64). See the [latest release](https://github.com/shuv1337/rex-rune/releases/latest).
+macOS and Windows are source builds:
 see [Building and development](building.md#macos) and
 [Building and development](building.md#windows).
 
